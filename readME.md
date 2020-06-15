@@ -6,15 +6,15 @@ This is the semester long project for the Computer Science Capstone Class at Bay
 * [Sources](#Sources)
 * [Authors](#Authors)
 * [Local Installation](#localInstallation)
- * [MySQL](#mysql)
- * [Spring Boot](#spring)
- * [Front End](#frontEnd)
- * [Docker](#docker1)
+  * [MySQL](#mysql)
+  * [Spring Boot](#spring)
+  * [Front End](#frontEnd)
+  * [Docker](#docker1)
 * [Server Installation](#serverInstallation)
- * [Docker](#docker2)
- * [Kubernetes](#kubernetes)
- * [Deployment](#deployment)
- * [Nginx](#nginx)
+  * [Docker](#docker2)
+  * [Kubernetes](#kubernetes)
+  * [Deployment](#deployment)
+  * [Nginx](#nginx)
 
 
 
